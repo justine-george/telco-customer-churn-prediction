@@ -3,6 +3,10 @@
 
 Predict customer churn in a telco using a dataset containing demographic and service data.
 
+[Colab link](https://colab.research.google.com/drive/179S9uSjffaUztRUuaNshgzbYXYcLCLeI?usp=sharing)
+
+[Detailed report in PDF](CustomerChurn_Report.pdf)
+
 - Dataset Source: Kaggle
   - Size: 7043 customers
   - Features: 21
