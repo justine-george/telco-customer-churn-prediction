@@ -3,7 +3,7 @@
 
 Predict customer churn in a telco using a dataset containing demographic and service data.
 
-[Try the Live Colab Link!](https://colab.research.google.com/drive/179S9uSjffaUztRUuaNshgzbYXYcLCLeI?usp=sharing)
+[Try the Live Colab Link](https://colab.research.google.com/drive/179S9uSjffaUztRUuaNshgzbYXYcLCLeI?usp=sharing)
 
 [Access the detailed report here](CustomerChurn_Report.pdf)
 
